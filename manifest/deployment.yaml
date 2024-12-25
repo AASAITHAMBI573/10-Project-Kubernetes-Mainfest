@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: aasaithambi5/todo-app:build-12
+        image: aasaithambi5/todo-app:build-14
         ports:
         - containerPort: 80
